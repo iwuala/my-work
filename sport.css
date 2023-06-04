@@ -1,0 +1,124 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #111;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 147%;
+}
+
+h1 {}
+
+h2 {}
+
+h3 {}
+
+p {
+    margin: 0;
+}
+
+nav {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    width: 100vw;
+}
+
+#spotify-logo {
+    width: 12em;
+    height: 4em;
+    padding: 0.75em;
+}
+
+#navbar-right {
+    padding: 1em;
+}
+
+#navbar-right a {
+    padding: 1em;
+}
+
+#landing {
+    background-image: url(landing.jpg);
+    height: 30em;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#spotify-1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1em;
+}
+
+h1 {
+    border-bottom: 2px solid black;
+}
+
+#spotify-2 {
+    display: flex;
+}
+
+.spotify-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em 4em;
+}
+
+.spotify-3 p {
+    width: 10em;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+
+.image-size {
+    width: 5em;
+    height: 5em;
+}
+
+#yeezy-1 {
+    background-color: #8CD4B2;
+    color: white;
+    background-image: url(spotify-icon-white.png);
+    background-repeat: no-repeat;
+    background-size: 5em;
+    background-position: center;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1em;
+}
+
+#spo-app {
+    width: 30em;
+    padding: 2em;
+
+}
+
+#app-1 {
+    width: 22em;
+}
+
+h2{
+    border-bottom: 2px solid white;
+}
+
+.tune-1 {
+    padding: 0.5em;
+}
